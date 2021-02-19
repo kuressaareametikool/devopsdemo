@@ -4,7 +4,7 @@
 - Punane kärbseseen
 -
 ## Küsimus ja vastus 2
--
+- Tulipunane vihmavari
 -
 ## Küsimus ja vastus 3
 - Saaremaa
