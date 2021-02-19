@@ -15,3 +15,6 @@
 ## Küsimus ja vastus 5
 -
 -
+## Küsimus ja vastus 6
+-
+-
