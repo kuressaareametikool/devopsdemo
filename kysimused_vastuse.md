@@ -8,7 +8,7 @@
 -
 ## Küsimus ja vastus 3
 - Saaremaa
--
+- Kuidas nimetatakse Eesti suurimat saart?
 ## Küsimus ja vastus 4
 -
 -
