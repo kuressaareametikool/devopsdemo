@@ -1,8 +1,8 @@
 # Küsimused ja vastused
 
-## Milline ei ole kõige parem söögiseen?
+## Küsimus ja vastus 1
 - Punane kärbseseen
--
+- Milline ei ole kõige parem söögiseen?
 ## Küsimus ja vastus 2
 -
 -
