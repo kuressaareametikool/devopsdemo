@@ -13,7 +13,7 @@
 
 ## Küsimus ja vastus 4
 -
--
+- Kuressaare
 ## Küsimus ja vastus 5
 -
 -
