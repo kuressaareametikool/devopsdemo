@@ -8,7 +8,9 @@
 -
 ## Küsimus ja vastus 3
 - Saaremaa
+- Kuidas nimetatakse Eesti suurimat saart?
 - Nimeta Eesi saar, mille ymbruses elavad angerjad?
+
 ## Küsimus ja vastus 4
 -
 -
@@ -18,4 +20,3 @@
 ## Küsimus ja vastus 6
 - 40 075 km
 -
-
