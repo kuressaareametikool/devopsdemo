@@ -1,7 +1,7 @@
 # Küsimused ja vastused
 
 ## Küsimus ja vastus 1
--
+- Punane kärbseseen
 -
 ## Küsimus ja vastus 2
 -
