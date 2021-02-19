@@ -7,7 +7,7 @@
 -
 -
 ## Küsimus ja vastus 3
--
+- Saaremaa
 -
 ## Küsimus ja vastus 4
 -
