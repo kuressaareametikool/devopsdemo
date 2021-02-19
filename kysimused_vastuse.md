@@ -19,4 +19,4 @@
 -
 ## Küsimus ja vastus 6
 - 40 075 km
--
+- Kui pikk on ekvaator?
