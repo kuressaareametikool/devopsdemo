@@ -2,7 +2,7 @@
 
 ## Küsimus ja vastus 1
 - Punane kärbseseen
--
+- Milline ei ole kõige parem söögiseen?
 ## Küsimus ja vastus 2
 - Tulipunane vihmavari
 -
