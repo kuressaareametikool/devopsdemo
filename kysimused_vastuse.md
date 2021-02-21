@@ -16,7 +16,4 @@
 - Kuressaare
 ## Küsimus ja vastus 5
 -
--
-## Küsimus ja vastus 6
-- 40 075 km
--
+- Kana
