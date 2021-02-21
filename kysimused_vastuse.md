@@ -14,4 +14,4 @@
 -
 ## Küsimus ja vastus 5
 -
--
+- Kana
